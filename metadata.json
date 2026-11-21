@@ -1,0 +1,6 @@
+{
+  "name": "CashKhata - Personal Cash Flow & Ledger",
+  "description": "Mobile-friendly personal cash flow, account balance, and party ledger management app with PIN security and local backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
